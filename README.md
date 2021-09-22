@@ -9,3 +9,10 @@
 * repository : commit이 저장되는 곳
 * 원격 레포지토리 or 리모트(remote) 레포지토리 = github의 레포지토리 
 * 로컬 레포지토리 = 내 컴퓨터의 레포지토리 
+
+<br><br>
+
+### MARKDOWN : A lightweight markup language for formatted documents
+* File extension : .md or .markdown
+* useful tool : sublime text
+* reference sites : <https://gist.github.com/ihoneymon/652be052a0727ad59601>
