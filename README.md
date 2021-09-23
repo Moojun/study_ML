@@ -23,3 +23,4 @@
 ## 2주차. Python_01
 ### Python is an interpreted, high-level, general-purpose programming language.
 * What can i do with python? <https://realpython.com/what-can-i-do-with-python/>
+* Date types, Operators, Flow control, Function definition, Object-oriented Programming
