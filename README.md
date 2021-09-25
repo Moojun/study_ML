@@ -15,7 +15,7 @@
 
 ### MARKDOWN : A lightweight markup language for formatted documents
 * File extension : .md or .markdown
-* useful tool : sublime text
+* useful tool : sublime text, Typora ... 
 * reference sites : <https://gist.github.com/ihoneymon/652be052a0727ad59601>
 
 <br><br>
