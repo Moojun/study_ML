@@ -24,3 +24,13 @@
 ### Python is an interpreted, high-level, general-purpose programming language.
 * What can i do with python? <https://realpython.com/what-can-i-do-with-python/>
 * Date types, Operators, Flow control, Function definition, Object-oriented Programming
+
+
+<br><br>
+
+## 3주차. Python_02
+### 2 principles(tips)
+> 1. Take advantages of python itself (a.k.a Pythonic)
+> 2. Utilize the existing libraries and master them if they are useful  
+
+* Data types(include complex, None) 
