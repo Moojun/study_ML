@@ -39,3 +39,6 @@
 > 2. Utilize the existing libraries and master them if they are useful  
 
 * Data types(include complex, None) 
+* String formatting, trimming, splitting
+* Compound data types : list, set, tuple, dict  + (str)
+* lambda expression
