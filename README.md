@@ -43,3 +43,8 @@
 * Compound data types : list, set, tuple, dict  + (str)
 * lambda expression, list comprehension
 * Flow control : pass(no action), indent instead of bracket
+* Function definition : Keyword argument association
+* Object-oriented Programming : inheritance, private member definition
+* file input and output
+* Exception handling
+* Package import
