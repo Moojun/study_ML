@@ -41,4 +41,5 @@
 * Data types(include complex, None) 
 * String formatting, trimming, splitting
 * Compound data types : list, set, tuple, dict  + (str)
-* lambda expression
+* lambda expression, list comprehension
+* Flow control : pass(no action), indent instead of bracket
