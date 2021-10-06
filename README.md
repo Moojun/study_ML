@@ -15,6 +15,10 @@
 * 원격 레포지토리 or 리모트(remote) 레포지토리 = github의 레포지토리 
 * 로컬 레포지토리 = 내 컴퓨터의 레포지토리 
 
+### Sourcetree
+* Stage hunk : it is being added to the staging area, Discard Hunk : remove the change without trace.  
+* The conclusion is that Replace the word 'hunk' with 'change' and it becomes pleasurable to follow Git.
+
 
 <br><br>
 
