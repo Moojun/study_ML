@@ -52,3 +52,19 @@
 * file input and output
 * Exception handling
 * Package import
+
+<br><br>
+## 4주차. python 03
+### standard library
+* math : Mathematical Functions
+* decimal : Decimal Fixed-point and Floating-point Arithmetic
+* random : Pseudo-random Number Generators
+* time : Time Access and Conversions
+* glob : Unix-style Pathname Pattern Expansion
+* fnmatch : Unix-style String Pattern Matching
+* csv : CSV File Reading and Writing
+* pickle : Python Object Serialization
+* tkinter : Python Interface to Tcl/Tk GUI toolkit
+* turltle : Turtle Graphics for Programming Education
+* Beyond the python standard library
+  * pip install package_name
