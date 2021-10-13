@@ -68,3 +68,17 @@
 * turltle : Turtle Graphics for Programming Education
 * Beyond the python standard library
   * pip install package_name
+
+<br><br>
+## 5주차. python mathematics : Calculus(미적분학)
+* Visualization
+   * Matplotlib : A plotting library in python
+   * <b>Visualization</b> is very important not only for data but also for programs, systems and society
+* Differentitation(미분)
+   * Meaning
+     * The slope of the tangent line (plane) to the given function
+     * The tangent line ~ linear approximation
+   * How to get a derivative(도함수)
+     * By manual ways using derivative formula(polynomial rule, chain rule, etc)
+     * Analytical differentiation using SymPy
+     * Numerical differentiation : an algorithm to approximate a derivative value of a function using values of the function
