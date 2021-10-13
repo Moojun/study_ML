@@ -11,7 +11,7 @@ A simple Turtle Runaway game using python.
 * turtle, random, time module (They may be built in python)
 
 ## How To Start Game
-$ python turtle_runaway.py 
+$ python_03.py 
 
 ## How to Play
 1. Input the game end score.
