@@ -82,3 +82,13 @@
      * By manual ways using derivative formula(polynomial rule, chain rule, etc)
      * Analytical differentiation using SymPy
      * Numerical differentiation : an algorithm to approximate a derivative value of a function using values of the function
+
+<br><br>
+## 6주차. python mathematics : linear algebra(선형대수학)
+* Algebra is the study of mathematical objects and their manipulating rules (e.g. arithmetic operations).
+* Linear algebra is the mathematical branch on linear equations represented in vector spaces.
+   * Linear equation(1차 방정식)
+   * Vector space(linear space) : Scalar, Vector, Matrix
+   * Matrix : Matrix multiplication, Matrix inverse, etc..
+* Numpy library : A matrix library in python 
+* Application : LIne and curve fitting(회귀분석)
