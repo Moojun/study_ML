@@ -92,3 +92,15 @@
    * Matrix : Matrix multiplication, Matrix inverse, etc..
 * Numpy library : A matrix library in python 
 * Application : LIne and curve fitting(회귀분석)
+
+<br><br>
+## 7주차. python mathematics : optimization(최적화)
+* Non-linear optimization
+   * gradient descent(경사 하강법) : using the 1st-order approximation and the given step size.
+   * Newton's method : using the 2nd-order approximation without the step size.
+   * use library 'scipy.optimize' for optimization without derivatives. 
+* Selecting an objective function is important 
+   * e.g. algebraic distance vs geometric distance in line fitting.
+
+
+
