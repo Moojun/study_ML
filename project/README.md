@@ -43,8 +43,11 @@
 
 
 ### 4. 결과 미리보기
-
-
+  * Linear Regression model
+   ![1](https://user-images.githubusercontent.com/80478750/146925707-120cad0a-eb44-4b62-8f3f-5c06340dddb6.PNG)
+  
+  * Linear Regression + Standardization
+   ![2](https://user-images.githubusercontent.com/80478750/146925750-6762777b-82f7-4075-ba58-c1684d8378eb.PNG)
 
 ### 5. License
 * MIT License
