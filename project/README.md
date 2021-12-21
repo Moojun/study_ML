@@ -49,6 +49,9 @@
   * Linear Regression + Standardization
    ![2](https://user-images.githubusercontent.com/80478750/146925750-6762777b-82f7-4075-ba58-c1684d8378eb.PNG)
 
-### 5. License
+### 5. 결론
+  * 두 모델 모두 실제 결과와 예측한 결과가 차이가 컸으며, 이는 그래프로도 확인할 수 있지만, statsmodels library의 R-squared, Adj. R-squared 등의 지표로도 확인할 수 있었다. 예측 결과의 오류가 데이터의 부적합성인지, 혹은 선형 회귀 모델이 적합하지 않았는지는 추후 다른 모델들을 적용해 보면서 확인해 볼 계획이다.
+
+### 6. License
 * MIT License
 
