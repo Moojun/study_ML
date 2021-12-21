@@ -47,10 +47,10 @@
    ![1](https://user-images.githubusercontent.com/80478750/146925707-120cad0a-eb44-4b62-8f3f-5c06340dddb6.PNG)
   
   * Linear Regression + Standardization
-   ![2](https://user-images.githubusercontent.com/80478750/146925750-6762777b-82f7-4075-ba58-c1684d8378eb.PNG)
+   ![2](https://user-images.githubusercontent.com/80478750/146944610-f90da186-fb51-48a0-a24a-c58e1737389d.PNG)
    
   * Linear Regression + Normalization
-   ![3](https://user-images.githubusercontent.com/80478750/146939001-6c675d9d-dcd9-4d58-b116-c9fe30d3ea82.PNG)
+   ![3](https://user-images.githubusercontent.com/80478750/146944633-c8cadafa-10ba-4444-a4f1-3c9ef4990fd0.PNG)
 
 ### 5. 결론
   * 두 모델 모두 실제 결과와 예측한 결과가 차이가 컸으며, 이는 그래프로도 확인할 수 있지만, statsmodels library의 R-squared, Adj. R-squared 등의 지표로도 확인할 수 있었다. 예측 결과의 오류가 데이터의 부적합성인지, 혹은 선형 회귀 모델이 적합하지 않았는지는 추후 다른 모델들을 적용해 보면서 확인해 볼 계획이다.
