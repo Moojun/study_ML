@@ -11,8 +11,16 @@
 | Content Cell | Content Cell |
 | 1.4 | 데이터 셀렉션 및 필터링(pandas) : []연산자, iloc, loc, 불린 인덱싱  |
 | 1.5 | pandas 그 외 : Aggregation 함수(sum, mean, count, ...), groupby()함수, 결손 데이터 처리, apply lambda식 |
-|  **2장** | **사이킷런으로 시작하는 머신러닝** |
+|  **2장** | **사이킷런으로 시작하는 머신러닝**, [요약](#2장-요약) |
 | 2.1 | 붓꽃(iris) 품종 예측 |
 | Content Cell | Content Cell |
 | Content Cell | Content Cell |
 | Content Cell | Content Cell |
+
+
+
+
+
+### 2장 요약
+#### 머신 러닝 지도 학습 프로세스
+1. 
