@@ -5,6 +5,14 @@
 
 | 목차 | 내용 | 
 | :------------: | :-------------: |
-| 1장 | 파이썬 기반의 머신러닝과 생태계 이해(numpy, pandas) | 
+| **1장** | **파이썬 기반의 머신러닝과 생태계 이해(numpy, pandas)** | 
 | Content Cell | Content Cell |
-
+| Content Cell | Content Cell |
+| Content Cell | Content Cell |
+| 1.4 | 데이터 셀렉션 및 필터링(pandas) : []연산자, iloc, loc, 불린 인덱싱  |
+| 1.5 | pandas 그 외 : Aggregation 함수(sum, mean, count, ...), groupby()함수, 결손 데이터 처리, apply lambda식 |
+|  **2장** | **사이킷런으로 시작하는 머신러닝** |
+| 2.1 | 붓꽃(iris) 품종 예측 |
+| Content Cell | Content Cell |
+| Content Cell | Content Cell |
+| Content Cell | Content Cell |
