@@ -2,7 +2,7 @@
 ### 1. 정보
   * 전공 : 컴퓨터공학
   * 이름 : 김무준
-  * 학번 : 20101205
+  * 학번 : 20101205 
 
 ### 2. 개발 배경 
   * 프로 야구 선수들은 ‘FA선수’ 혹은 ‘자유계약선수’ 신분으로 시장에 나와 여러 구단과 연봉 협상을 한다. 이때, 타자의 경우, ‘타율’, ‘출루율’, ‘OPS’ 등 여러 가지 지표들이 연봉 협상 시 종합적으로 고려된다. 이 중 가장 중요하게 고려되는 지표 중 하나로 ‘WAR’이 있는데, WAR이란 Wins Above Replacement의 약자로, 대체 수준 대비 승리 기여를 의미한다. 즉, 대체 선수보다 이 선수가 팀의 승리에 몇 승을 더 기여하였는지를 나타낸 지표이다. 예를 들어, 2010년 롯데 자이언츠 소속 이대호 선수의 WAR은 8.76이었는데, 이는 이 선수가 대체 선수보다 팀에 8.76승을 더 안겨주었다는 뜻이다. WAR 수치는 현재 선수의 연봉 협상, 골든글러브 및 MVP 수상 등에 중요하게 사용되고 있는 지표 중 하나이므로, WAR 수치 예측을 통해 올해 ‘FA선수’ 혹은 ‘자유계약선수’ 신분으로 시장에 나오는 선수들의 몸값을 어느 정도 예측해 보고자 하였다.
@@ -44,13 +44,13 @@
 
 ### 4. 결과 미리보기
   * Linear Regression model
-   ![1](https://user-images.githubusercontent.com/80478750/146925707-120cad0a-eb44-4b62-8f3f-5c06340dddb6.PNG)
+      ![1](https://user-images.githubusercontent.com/80478750/146925707-120cad0a-eb44-4b62-8f3f-5c06340dddb6.PNG)
   
   * Linear Regression + Standardization
-   ![2](https://user-images.githubusercontent.com/80478750/146944610-f90da186-fb51-48a0-a24a-c58e1737389d.PNG)
+      ![2](https://user-images.githubusercontent.com/80478750/146944610-f90da186-fb51-48a0-a24a-c58e1737389d.PNG)
    
   * Linear Regression + Normalization
-   ![3](https://user-images.githubusercontent.com/80478750/146944633-c8cadafa-10ba-4444-a4f1-3c9ef4990fd0.PNG)
+      ![3](https://user-images.githubusercontent.com/80478750/146944633-c8cadafa-10ba-4444-a4f1-3c9ef4990fd0.PNG)
 
 ### 5. 결론
   * 세 가지 모델 모두 실제 결과와 예측한 결과가 차이가 컸으며, 그나마 마지막 회귀 분석 + 데이터 정규화 모델이 어느 정도 일치하였다고 볼 수 있으나, 많이 부족한 수준이다. 이는 그래프로도 확인할 수 있지만, statsmodels library의 R-squared, Adj. R-squared 등의 지표로도 확인할 수 있었다. 예측 결과의 오류가 데이터의 부적합성인지, 혹은 선형 회귀 모델이 적합하지 않았는지는 추후 다른 모델들을 적용해 보면서 확인해 볼 계획이다.
